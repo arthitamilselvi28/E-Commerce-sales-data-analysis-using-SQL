@@ -164,7 +164,7 @@ GitHub
 
 ---
 
-## 📈 Real-World Relevance
+## Real-World Relevance
 
 This project demonstrates how SQL is used in real-world e-commerce data analysis.
 Businesses use these types of queries to understand sales trends, customer behavior, and product performance to improve decision making.
