@@ -1,4 +1,4 @@
-# E-Commerce-sales-data-analysis-using-SQ
+# E-Commerce-sales-data-analysis-using-SQL
 
 ## Project Overview
 
