@@ -158,9 +158,9 @@ README.md – Project documentation
 
 ## Tools Used
 
-SQL
-MySQL
-GitHub
+SQL,
+MySQL,
+GitHub.
 
 ---
 
